@@ -1,5 +1,5 @@
 public class Planet{
-  int[] loc;
+  int[] loc;//defining an array
   color myColor;
   int mySize;
   int dx, dy;

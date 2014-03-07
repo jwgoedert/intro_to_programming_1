@@ -1,3 +1,5 @@
+//James W. Goedert
+
 Planet earth;
 Planet sun;
 
